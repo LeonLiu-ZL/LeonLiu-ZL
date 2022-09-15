@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonLiu-ZL
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning python and I have been using R for bioinformatic analyses for 6 years.
+- 🌱 I’m currently learning python and I have been using R and bash for bioinformatic analyses for 6 years.
 - 📫 You can reach me at liuzhaoliang@gmail.com
 
 <!---
